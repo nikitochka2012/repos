@@ -1,5 +1,6 @@
 # Changelog
 
+79cd06d - chore: update changelog and bump version to 0.1.7 (harper, 2024-09-17)
 a3a7b7f - chore: update changelog and bump version to 0.1.6 (harper, 2024-09-17)
 9abec92 - chore: update changelog and bump version to 0.1.5 (harper, 2024-09-17)
 c55b2eb - chore: update changelog and bump version to 0.1.4 (harper, 2024-09-17)
